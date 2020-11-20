@@ -15,3 +15,5 @@ tsc <programname>.ts | node <programname>.js
 [5] fourArrowFunctions.ts -> Arrow Functions in Angular
 
 [6] fiveInterface.ts  -> Interface example in Angular
+
+[7] elevenAnonymousFunctions.ts  -> Anonymous Function example
