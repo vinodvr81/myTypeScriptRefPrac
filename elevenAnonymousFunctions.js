@@ -13,3 +13,15 @@ console.log(factorial(5));
 console.log("Anonymous Function");
 var newFactorial = function (numb) { return (numb <= 0 ? 0 : numb); };
 console.log(newFactorial(5));
+//Recursive Function using 
+var funcRec = function (x) {
+    while (x <= 0) {
+        if (x <= 0) {
+            (1);
+        }
+        else {
+            (x * x--);
+        }
+    }
+};
+console.log(funcRec(5));

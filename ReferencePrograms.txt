@@ -2,7 +2,7 @@
 
 To run 
 
-tsc <programname>.ts | node <programname>.js
+tsc <programname>.ts && node <programname>.js
 
 [2] programOneFunctionRef.ts -> simple function declaration in Typescript
 
