@@ -1,0 +1,17 @@
+[1]
+
+To run 
+
+tsc <programname>.ts | node <programname>.js
+
+[2] programOneFunctionRef.ts -> simple function declaration in Typescript
+
+[3] twoVariableDeclaration.ts -> Types of Variable declaration
+
+[4] tsc --target ES6  <filename.ts>
+
+[4] threeTypeAssertions.ts  -> Type Assertions in Angular
+
+[5] fourArrowFunctions.ts -> Arrow Functions in Angular
+
+[6] fiveInterface.ts  -> Interface example in Angular
